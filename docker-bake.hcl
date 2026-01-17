@@ -16,6 +16,8 @@ target "default" {
   tags = tag(version)
   matrix = {
     version = [
+      "13",
+      "13-slim",
       "12",
       "12-slim",
       "11",
