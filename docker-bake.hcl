@@ -22,8 +22,6 @@ target "default" {
       "12-slim",
       "11",
       "11-slim",
-      "10",
-      "10-slim",
     ]
   }
   args = {
